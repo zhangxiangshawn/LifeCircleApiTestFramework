@@ -18,7 +18,7 @@ public class TestLogin {
         header.put("Content-Type","application/json");
         HttpResponse response = new HttpRequest(url)
                 .setHeaders(header)
-                .setContent("{\"codeType\": \"loginSms\", \"tel\": \"17313090076\"}")
+                .setContent("{\"codeType\": \"loginSms\", \"tel\": \"15811111111\"}")
                 .doPost();
         Map<String, Object> exceptMap = new HashMap<String,Object>();
 
@@ -31,7 +31,7 @@ public class TestLogin {
 
     @Test
     public void testSMSLogin() throws IOException {
-        String url = baseUrl + "/SMSLogin?code=243504&source=1&tel=17313090076";
+        String url = baseUrl + "/SMSLogin?code=111111&source=1&tel=15811111111";
         HttpResponse response = new HttpRequest(url).doGet();
 
         Map<String, Object> exceptMap = new HashMap<String,Object>();

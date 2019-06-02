@@ -15,7 +15,7 @@ public class TestLifeCoin {
 
     public static Map<String, Object> setToken(){
         Map header = new HashMap();
-        header.put("token", "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NjI4OTQ3NDQsInVzZXJuYW1lIjoiMjg2YjUzNjItZmQ0MC00YWI0LTg2NGYtNGJjZDk2ODNiN2Y5In0.J6EAVet0u2Ok9n3NRUikA7mjvCCjQ1dwb7kRUJBdosPQV_oO_YFggIuWUHeiVd6vAWecaHw0ISjHCaC7QjRfNQ");
+        header.put("token", "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NjMwODMyMTUsInVzZXJuYW1lIjoiMTBmYmU3YjAtNDE4OS00ZTk1LWFkZWUtZTM5Y2U0NjQzYjExIn0.G2QyJey-5AhN8sgt7zsnAcS4SKP9RSbVp9yfQqVwRKnIdP27gZLoUOZUIMissIciO7B6nc7eX7jFY8-X2e5yAA");
         return header;
     }
 
@@ -57,11 +57,11 @@ public class TestLifeCoin {
         //header
         Map<String, Object> header = new HashMap<String, Object>();
         header.put("Content-Type","application/json");
-        header.put("token", "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NjI4OTQ3NDQsInVzZXJuYW1lIjoiMjg2YjUzNjItZmQ0MC00YWI0LTg2NGYtNGJjZDk2ODNiN2Y5In0.J6EAVet0u2Ok9n3NRUikA7mjvCCjQ1dwb7kRUJBdosPQV_oO_YFggIuWUHeiVd6vAWecaHw0ISjHCaC7QjRfNQ");
+        header.put("token", "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NjMwODMyMTUsInVzZXJuYW1lIjoiMTBmYmU3YjAtNDE4OS00ZTk1LWFkZWUtZTM5Y2U0NjQzYjExIn0.G2QyJey-5AhN8sgt7zsnAcS4SKP9RSbVp9yfQqVwRKnIdP27gZLoUOZUIMissIciO7B6nc7eX7jFY8-X2e5yAA");
 
         HttpResponse response = new HttpRequest(url)
                 .setHeaders(header)
-                .setContent("{\"amount\":\"0\", \"orderNumber\":\"ZT2019053100000001\", \"payImmediate\":\"0\"}")
+                .setContent("{\"amount\":\"0\", \"orderNumber\":\"ZT2019052400000005\", \"payImmediate\":\"0\"}")
                 .doPost();
 
         Map<String, Object> exceptMap = new HashMap<String,Object>();
@@ -80,7 +80,7 @@ public class TestLifeCoin {
         //header
         Map<String, Object> header = new HashMap<String, Object>();
         header.put("Content-Type","application/json");
-        header.put("token", "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NjI4OTQ3NDQsInVzZXJuYW1lIjoiMjg2YjUzNjItZmQ0MC00YWI0LTg2NGYtNGJjZDk2ODNiN2Y5In0.J6EAVet0u2Ok9n3NRUikA7mjvCCjQ1dwb7kRUJBdosPQV_oO_YFggIuWUHeiVd6vAWecaHw0ISjHCaC7QjRfNQ");
+        header.put("token", "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NjMwODMyMTUsInVzZXJuYW1lIjoiMTBmYmU3YjAtNDE4OS00ZTk1LWFkZWUtZTM5Y2U0NjQzYjExIn0.G2QyJey-5AhN8sgt7zsnAcS4SKP9RSbVp9yfQqVwRKnIdP27gZLoUOZUIMissIciO7B6nc7eX7jFY8-X2e5yAA");
 
         HttpResponse response = new HttpRequest(url)
                 .setHeaders(header)
@@ -103,7 +103,7 @@ public class TestLifeCoin {
         //header
         Map<String, Object> header = new HashMap<String, Object>();
         header.put("Content-Type","application/json");
-        header.put("token", "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NjI4OTQ3NDQsInVzZXJuYW1lIjoiMjg2YjUzNjItZmQ0MC00YWI0LTg2NGYtNGJjZDk2ODNiN2Y5In0.J6EAVet0u2Ok9n3NRUikA7mjvCCjQ1dwb7kRUJBdosPQV_oO_YFggIuWUHeiVd6vAWecaHw0ISjHCaC7QjRfNQ");
+        header.put("token", "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NjMwODMyMTUsInVzZXJuYW1lIjoiMTBmYmU3YjAtNDE4OS00ZTk1LWFkZWUtZTM5Y2U0NjQzYjExIn0.G2QyJey-5AhN8sgt7zsnAcS4SKP9RSbVp9yfQqVwRKnIdP27gZLoUOZUIMissIciO7B6nc7eX7jFY8-X2e5yAA");
 
         HttpResponse response = new HttpRequest(url)
                 .setHeaders(header)
@@ -126,7 +126,7 @@ public class TestLifeCoin {
         //header
         Map<String, Object> header = new HashMap<String, Object>();
         header.put("Content-Type","application/json");
-        header.put("token", "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NjI4OTQ3NDQsInVzZXJuYW1lIjoiMjg2YjUzNjItZmQ0MC00YWI0LTg2NGYtNGJjZDk2ODNiN2Y5In0.J6EAVet0u2Ok9n3NRUikA7mjvCCjQ1dwb7kRUJBdosPQV_oO_YFggIuWUHeiVd6vAWecaHw0ISjHCaC7QjRfNQ");
+        header.put("token", "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NjMwODMyMTUsInVzZXJuYW1lIjoiMTBmYmU3YjAtNDE4OS00ZTk1LWFkZWUtZTM5Y2U0NjQzYjExIn0.G2QyJey-5AhN8sgt7zsnAcS4SKP9RSbVp9yfQqVwRKnIdP27gZLoUOZUIMissIciO7B6nc7eX7jFY8-X2e5yAA");
 
         HttpResponse response = new HttpRequest(url)
                 .setHeaders(header)

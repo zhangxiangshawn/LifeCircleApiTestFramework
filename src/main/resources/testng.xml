@@ -18,12 +18,48 @@
                 <methods>
                     <include name="testGetCoinBalance"/>
                     <include name="testGetCoinBonus"/>
-                    <include name="testPostCoinConsume"/>
+                    <!--<include name="testPostCoinConsume"/>-->
                     <include name="testPostCoinExpense"/>
                     <include name="testPostCoinRefund"/>
                 </methods>
             </class>
 
+            <class name="com.shawn.api.test.lifeDevice.TestLifeDevice">
+                <methods>
+                    <include name="testGetLifeDevice"/>
+                </methods>
+            </class>
+
+            <!--<class name="com.shawn.api.test.login.TestLogin">-->
+                <!--<methods>-->
+                    <!--<include name="testGetSMSCode"/>-->
+                    <!--<include name="testSMSLogin"/>-->
+                <!--</methods>-->
+            <!--</class>-->
+
+            <class name="com.shawn.api.test.media.TestMedia">
+                <methods>
+                    <include name="testGetMediaList"/>
+                    <!--<include name="testMediaCreativeUpload"/>-->
+                    <include name="testPremiseStatistic"/>
+                </methods>
+            </class>
+
+            <class name="com.shawn.api.test.premise.TestPremise">
+                <methods>
+                    <!--<include name="testGetPremiseList"/>-->
+                    <include name="testPremiseDetail"/>
+                    <include name="testPremiseStatistic"/>
+                    <include name="testPremiseGetfilter"/>
+                </methods>
+            </class>
+
+            <class name="com.shawn.api.test.supportCity.TestCity">
+                <methods>
+                    <include name="testGetCityList"/>
+                    <include name="testGetSingleCity"/>
+                </methods>
+            </class>
         </classes>
     </test>
 

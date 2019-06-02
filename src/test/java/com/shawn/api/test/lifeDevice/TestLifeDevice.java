@@ -13,7 +13,7 @@ public class TestLifeDevice {
     private String baseUrl = "https://life-circle-prd.xinchao.com/life";
     @Test
     public void testGetLifeDevice() throws IOException {
-        String url = baseUrl + "/device/price?cityCode=1";
+        String url = baseUrl + "/device/price?cityCode=110100";
         HttpResponse response = new HttpRequest(url).doGet();
 
         Map<String, Object> exceptMap = new HashMap<String,Object>();

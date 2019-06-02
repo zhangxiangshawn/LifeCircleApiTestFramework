@@ -3,10 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="43bd3ce7-2ec2-4277-8ebe-9dd5d17526df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeCoin/TestLifeCoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeCoin/TestLifeCoin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeDevice/TestLifeDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeDevice/TestLifeDevice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/shawn/api/test/lifeCoin/TestLifeCoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/shawn/api/test/lifeCoin/TestLifeCoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/login/TestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/login/TestLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/media/TestMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/media/TestMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/premise/TestPremise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/premise/TestPremise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/supportCity/TestCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/shawn/api/test/supportCity/TestCity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/shawn/api/test/lifeDevice/TestLifeDevice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/shawn/api/test/lifeDevice/TestLifeDevice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,37 +23,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shawn/apitest02/HttpRequest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeDevice/TestLifeDevice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="135">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#889#890#0" expanded="true" />
-                <element signature="e#918#919#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar!/org/apache/http/message/AbstractHttpMessage.class">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeDevice/TestLifeDevice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#623#638#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="195">
+              <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -56,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/validation/ResponseChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            <state relative-caret-position="150">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#603#604#0" expanded="true" />
@@ -67,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/premise/TestPremise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="58">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/login/TestLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="934">
-              <caret line="43" column="62" lean-forward="true" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
+            <state relative-caret-position="133">
+              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,9 +82,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/media/TestMedia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
+            <state relative-caret-position="390">
               <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
             </state>
           </provider>
@@ -103,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/supportCity/TestCity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            <state relative-caret-position="300">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -112,11 +111,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/industryTestSuite/TestIndustry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
+            <state relative-caret-position="15">
               <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3089#3104#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,8 +123,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeCoin/TestLifeCoin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="12" column="70" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="70" />
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,19 +160,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/shawn/apitest02/WrapClient.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeCoin/LifeCoin.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/industryTestSuite/TestGetIndustryLevel.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/extentreport/ExtentTestNGIReporterListener.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/premise/TestLogin.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/media/TestMedia.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/validation/ResponseChecker.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/supportCity/TestCity.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/premise/TestPremise.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/login/TestLogin.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/industryTestSuite/TestIndustry.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shawn/apitest02/HttpRequest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeCoin/TestLifeCoin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/supportCity/TestCity.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeDevice/TestLifeDevice.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/login/TestLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeCoin/TestLifeCoin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/media/TestMedia.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/shawn/api/test/premise/TestPremise.java" />
       </list>
     </option>
   </component>
@@ -185,11 +183,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1975" />
-    <option name="y" value="-489" />
-    <option name="width" value="1936" />
-    <option name="height" value="1046" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="76" />
+    <option name="y" value="38" />
+    <option name="width" value="1527" />
+    <option name="height" value="781" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -229,33 +227,6 @@
               <item name="LifeCircleApiTestFramework" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LifeCircleApiTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LifeCircleApiTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="shawn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LifeCircleApiTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LifeCircleApiTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="shawn" type="462c0819:PsiDirectoryNode" />
-              <item name="apitest02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LifeCircleApiTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LifeCircleApiTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -277,25 +248,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LifeCircleApiTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LifeCircleApiTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="shawn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LifeCircleApiTestFramework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LifeCircleApiTestFramework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="shawn" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -304,8 +256,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="shawn" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -315,8 +265,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="shawn" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="industryTestSuite" type="462c0819:PsiDirectoryNode" />
@@ -327,8 +275,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="shawn" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="lifeCoin" type="462c0819:PsiDirectoryNode" />
@@ -339,8 +285,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="shawn" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="lifeDevice" type="462c0819:PsiDirectoryNode" />
@@ -351,8 +295,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="shawn" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="login" type="462c0819:PsiDirectoryNode" />
@@ -363,21 +305,45 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="shawn" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="validation" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LifeCircleApiTestFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LifeCircleApiTestFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="premise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LifeCircleApiTestFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LifeCircleApiTestFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="supportCity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LifeCircleApiTestFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LifeCircleApiTestFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559297718630" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559484331469" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -404,50 +370,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestLifeDevice.testGetLifeDevice">
-    <configuration name="TestIndustry" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG./Users/zhangxiang/IdeaProjects/LifeCircleApiTestFramework/src/main/resources/testng.xml">
+    <configuration name="TestMedia.testMediaCreativeUpload" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LifeCircle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shawn.api.test.industryTestSuite.*" />
+          <option name="PATTERN" value="com.shawn.api.test.media.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shawn.api.test.industryTestSuite" />
-      <option name="MAIN_CLASS_NAME" value="com.shawn.api.test.industryTestSuite.TestIndustry" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLifeCoin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LifeCircle" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shawn.api.test.lifeCoin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.shawn.api.test.lifeCoin" />
-      <option name="MAIN_CLASS_NAME" value="com.shawn.api.test.lifeCoin.TestLifeCoin" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLifeCoin.testGetCoinBalance" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LifeCircle" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shawn.api.test.lifeCoin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.shawn.api.test.lifeCoin" />
-      <option name="MAIN_CLASS_NAME" value="com.shawn.api.test.lifeCoin.TestLifeCoin" />
-      <option name="METHOD_NAME" value="testGetCoinBalance" />
+      <option name="PACKAGE_NAME" value="com.shawn.api.test.media" />
+      <option name="MAIN_CLASS_NAME" value="com.shawn.api.test.media.TestMedia" />
+      <option name="METHOD_NAME" value="testMediaCreativeUpload" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -455,17 +389,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLifeCoin.testPostCoinConsume" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMedia.testPremiseStatistic" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LifeCircle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shawn.api.test.lifeCoin.*" />
+          <option name="PATTERN" value="com.shawn.api.test.media.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shawn.api.test.lifeCoin" />
-      <option name="MAIN_CLASS_NAME" value="com.shawn.api.test.lifeCoin.TestLifeCoin" />
-      <option name="METHOD_NAME" value="testPostCoinConsume" />
+      <option name="PACKAGE_NAME" value="com.shawn.api.test.media" />
+      <option name="MAIN_CLASS_NAME" value="com.shawn.api.test.media.TestMedia" />
+      <option name="METHOD_NAME" value="testPremiseStatistic" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -473,18 +407,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLifeDevice.testGetLifeDevice" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPremise.testPremiseGetfilter" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LifeCircle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shawn.api.test.lifeDevice.*" />
+          <option name="PATTERN" value="com.shawn.api.test.premise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.shawn.api.test.lifeDevice" />
-      <option name="MAIN_CLASS_NAME" value="com.shawn.api.test.lifeDevice.TestLifeDevice" />
-      <option name="METHOD_NAME" value="testGetLifeDevice" />
+      <option name="PACKAGE_NAME" value="com.shawn.api.test.premise" />
+      <option name="MAIN_CLASS_NAME" value="com.shawn.api.test.premise.TestPremise" />
+      <option name="METHOD_NAME" value="testPremiseGetfilter" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPremise.testPremiseStatistic" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LifeCircle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shawn.api.test.premise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shawn.api.test.premise" />
+      <option name="MAIN_CLASS_NAME" value="com.shawn.api.test.premise.TestPremise" />
+      <option name="METHOD_NAME" value="testPremiseStatistic" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/zhangxiang/IdeaProjects/LifeCircleApiTestFramework/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LifeCircle" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -493,11 +455,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestLifeDevice.testGetLifeDevice" />
-        <item itemvalue="TestNG.TestIndustry" />
-        <item itemvalue="TestNG.TestLifeCoin" />
-        <item itemvalue="TestNG.TestLifeCoin.testPostCoinConsume" />
-        <item itemvalue="TestNG.TestLifeCoin.testGetCoinBalance" />
+        <item itemvalue="TestNG./Users/zhangxiang/IdeaProjects/LifeCircleApiTestFramework/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.TestPremise.testPremiseStatistic" />
+        <item itemvalue="TestNG.TestPremise.testPremiseGetfilter" />
+        <item itemvalue="TestNG.TestMedia.testPremiseStatistic" />
+        <item itemvalue="TestNG.TestMedia.testMediaCreativeUpload" />
       </list>
     </recent_temporary>
   </component>
@@ -523,42 +485,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLifeDevice_testGetLifeDevice - 2019.05.31 at 18h 04m 17s.xml">
-      <configuration name="TestLifeDevice.testGetLifeDevice" configurationId="TestNG" />
+    <history-entry file="_Users_zhangxiang_IdeaProjects_LifeCircleApiTestFramework_src_main_resources_testng_xml - 2019.06.02 at 21h 51m 27s.xml">
+      <configuration name="/Users/zhangxiang/IdeaProjects/LifeCircleApiTestFramework/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLifeDevice_testGetLifeDevice - 2019.05.31 at 18h 05m 10s.xml">
-      <configuration name="TestLifeDevice.testGetLifeDevice" configurationId="TestNG" />
+    <history-entry file="TestMedia_testGetMediaList - 2019.06.02 at 21h 53m 38s.xml">
+      <configuration name="TestMedia.testGetMediaList" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLifeDevice_testGetLifeDevice - 2019.05.31 at 18h 06m 22s.xml">
-      <configuration name="TestLifeDevice.testGetLifeDevice" configurationId="TestNG" />
+    <history-entry file="TestMedia_testMediaCreativeUpload - 2019.06.02 at 21h 53m 46s.xml">
+      <configuration name="TestMedia.testMediaCreativeUpload" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLifeDevice_testGetLifeDevice - 2019.05.31 at 18h 07m 14s.xml">
-      <configuration name="TestLifeDevice.testGetLifeDevice" configurationId="TestNG" />
+    <history-entry file="TestMedia_testPremiseStatistic - 2019.06.02 at 21h 53m 56s.xml">
+      <configuration name="TestMedia.testPremiseStatistic" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLifeDevice_testGetLifeDevice - 2019.05.31 at 18h 11m 14s.xml">
-      <configuration name="TestLifeDevice.testGetLifeDevice" configurationId="TestNG" />
+    <history-entry file="TestMedia_testPremiseStatistic - 2019.06.02 at 21h 56m 39s.xml">
+      <configuration name="TestMedia.testPremiseStatistic" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLifeDevice_testGetLifeDevice - 2019.05.31 at 18h 11m 59s.xml">
-      <configuration name="TestLifeDevice.testGetLifeDevice" configurationId="TestNG" />
+    <history-entry file="_Users_zhangxiang_IdeaProjects_LifeCircleApiTestFramework_src_main_resources_testng_xml - 2019.06.02 at 21h 56m 54s.xml">
+      <configuration name="/Users/zhangxiang/IdeaProjects/LifeCircleApiTestFramework/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLifeDevice_testGetLifeDevice - 2019.05.31 at 18h 13m 10s.xml">
-      <configuration name="TestLifeDevice.testGetLifeDevice" configurationId="TestNG" />
+    <history-entry file="TestPremise_testPremiseGetfilter - 2019.06.02 at 21h 57m 41s.xml">
+      <configuration name="TestPremise.testPremiseGetfilter" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLifeDevice_testGetLifeDevice - 2019.05.31 at 18h 14m 10s.xml">
-      <configuration name="TestLifeDevice.testGetLifeDevice" configurationId="TestNG" />
+    <history-entry file="TestPremise_testPremiseStatistic - 2019.06.02 at 21h 59m 40s.xml">
+      <configuration name="TestPremise.testPremiseStatistic" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLifeDevice_testGetLifeDevice - 2019.05.31 at 18h 14m 21s.xml">
-      <configuration name="TestLifeDevice.testGetLifeDevice" configurationId="TestNG" />
+    <history-entry file="TestPremise_testPremiseStatistic - 2019.06.02 at 21h 59m 59s.xml">
+      <configuration name="TestPremise.testPremiseStatistic" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestLifeDevice_testGetLifeDevice - 2019.05.31 at 18h 14m 40s.xml">
-      <configuration name="TestLifeDevice.testGetLifeDevice" configurationId="TestNG" />
+    <history-entry file="_Users_zhangxiang_IdeaProjects_LifeCircleApiTestFramework_src_main_resources_testng_xml - 2019.06.02 at 22h 00m 13s.xml">
+      <configuration name="/Users/zhangxiang/IdeaProjects/LifeCircleApiTestFramework/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-479" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="76" y="38" width="1527" height="781" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23636363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -567,7 +528,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48373103" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.7750363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.1778742" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -575,7 +536,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.4913232" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32834226" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -589,24 +550,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Life Advertising" />
     <option name="LAST_COMMIT_MESSAGE" value="Life Advertising" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/media/TestMedia.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/media/TestMedia.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shawn/apitest01/ApiRequestTest.java" />
@@ -653,13 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/media/TestMedia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11480">
@@ -667,41 +603,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shawn/apitest02/HttpRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/premise/TestPremise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/supportCity/TestCity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/login/TestLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="934">
-          <caret line="43" column="62" lean-forward="true" selection-start-line="43" selection-start-column="62" selection-end-line="43" selection-end-column="62" />
+        <state relative-caret-position="390">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -710,38 +615,15 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2.jar!/org/apache/http/message/AbstractHttpMessage.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/industryTestSuite/TestIndustry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3089#3104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shawn/apitest02/HttpRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1740">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/validation/ResponseChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="150">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#603#604#0" expanded="true" />
@@ -750,23 +632,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeCoin/TestLifeCoin.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="12" column="70" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="70" />
+        <state relative-caret-position="390">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/industryTestSuite/TestIndustry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/supportCity/TestCity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeDevice/TestLifeDevice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#623#638#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/login/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/lifeCoin/TestLifeCoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/media/TestMedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/shawn/api/test/premise/TestPremise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
